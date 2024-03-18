@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="task9.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>task9</title>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="nav_img">
+                <img src="logoo.jpg" alt="">
+                <ul>
+                    <li>KALIUM <br> ARCHITECTS</li>
+                </ul>
+            </div>
+            <i class="fa-solid fa-bars"></i>
+
+        </div>
+   
+    </header>
+    <div class="background">
+        <p>Design of interiors <br> the art of organizing interior space.</p>
+
+    </div>
+    <div class="page2">
+        <h2>WELCOME</h2>
+        <div class="text">
+            <p>Practicing at the confluence of art, architecture, and building technology, we collaborate with clients to create buildings and environments in dialogue with culture and place. <br> <br>
+
+ 
+
+                Praesent ut sem eu diam varius sodales. Integer erat tellus, accumsan a diam sit amet, sollicitudin molestie erat. Nulla quis aliquet elit. Nullam ac accumsan nisi, vitae bibendum elit. Ut felis lacus, fermentum ut orci nec, consectetur rhoncus ipsum. Donec tincidunt ipsum eget vehicula facilisis. Duis quis odio ut turpis fringilla umet.
+                </p>
+            
+        </div>
+        <div class="boxs">
+            <div class="box1">
+                <img src="https://img.freepik.com/premium-photo/modern-house-exterior-evening-view-with-interior-lighting_73899-9700.jpg" alt="">
+
+            </div>
+            <div class="box2">
+                <img src="https://i0.wp.com/mads.media/wp-content/uploads/2021/06/Exterior-Night-1.jpg?fit=1000%2C667&ssl=1" alt="">
+
+            </div>
+            <div class="box3">
+                <img src="https://img.freepik.com/premium-photo/unique-industrial-architecture-house-daylight-photorealistic-ai-generative_837315-4275.jpg" alt="">
+
+            </div>
+            <div class="box4">
+                <img src="https://cdn.onekindesign.com/wp-content/uploads/2017/01/Architecture-Contemporary-Home-Vertical-Arts-Architecture-01-1-Kindesign.jpg" alt="">
+
+            </div>
+            <div class="box5">
+                <img src="https://www.mountainliving.com/content/uploads/2023/02/q/v/vertical-arts-thornburg-09-21-21-dusk-exterior-wide-web-scaled-e1675882502137.jpg" alt="">
+
+            </div>
+            
+        </div>
+        <p id="see">See our latest projects ➝</p>
+
+    </div>
+
+    <div class="page3">
+        <div class="hisse1">
+            <h2>Environmental Engineering</h2>
+            <div class="text1">
+                Frequently partiality possession resolution at or appearance unaffected he me.
+Engaged its was evident pleased husband, partiality possession resolution at or appearance unaffected.
+
+
+            </div>
+
+        </div>
+        <hr>
+        <div class="hisse2">
+            <h2>Industrial Design</h2>
+            <div class="text2">
+                
+Frequently partiality possession resolution at or appearance unaffected he me.
+Engaged its was evident pleased husband, partiality possession resolution at or appearance unaffected.
+
+
+            </div>
+
+        </div>
+        <hr>
+        <div class="hisse3">
+            <h2>Design Management</h2>
+            <div class="text3">
+                
+Frequently partiality possession resolution at or appearance unaffected he me.
+Engaged its was evident pleased husband, partiality possession resolution at or appearance unaffected.
+
+
+            </div>
+
+        </div>
+        <hr>
+
+    </div>
+    <div class="Clients">
+        <h2>Clients & Partners</h2>
+        <p>
+            Pellentesque luctus, dui sit amet blandit ornare, lacus turpis maximus nulla, at porttitor magna purus vel nunc.</p>
+
+
+    </div>
+    
+    <div class="logolar">
+        <div class="logo1"><img src="logoo1.png" alt=""></div>
+        <div class="logo2"><img src="logo2.jpeg" alt=""></div>
+        <div class="logo3"><img src="logo3.png" alt=""></div>
+        <div class="logo4"><img src="logo4.png" alt=""></div>
+        <div class="logo5"><img src="logo5.png" alt=""></div>
+        <div class="logo6"><img src="logo6.png" alt=""></div>
+        <div class="logo7"><img src="logo7.png" alt=""></div>
+        <div class="logo8"><img src="cp-logo-8-300x300.png" alt=""></div>
+        <div class="logo9"><img src="cp-logo-9-300x300.png" alt=""></div>
+        <div class="logo10"><img src="cp-logo-10-150x150.png" alt=""></div>
+       
+
+    </div>
+    <div class="page4">
+        <div class="metn">
+            <h2 id="news">News</h2>
+            <p id="pp">Pellentesque luctus, dui sit amet blandit ornare, lacus turpis maximus nulla, at porttitor magna purus vel nunc.</p>
+
+        </div>
+   
+        <div class="kartlar">
+            <div class="kartlar1">
+                <div class="cart1">
+                    <img src="https://adriaworkshop.com/storage/tinymce/p1X1wRUZRwt6kNyB7IobA02lVdSDa60TBxl6gaB9.jpg" alt="">
+                    <p>Integrated Way of Working
+                        Boy prosperous <br>increasing surrounded </p>
+        
+                </div>
+                <div class="cart2">
+                    <img src="https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/3/2020/07/28033809/Cover-18.png" alt="">
+                    <p>Yellow Block Building
+                        Lorem ipsum dolor <br>sit amet, vim cu pu</p>
+                </div>
+                <div class="cart3">
+                    <img src="https://foyr.com/learn/wp-content/uploads/2020/03/aaa.jpg" alt="">
+                    <p>Solna Subway Station
+                        Advice me cousinbr <br> an spring of needed. </p>
+        
+                </div>
+                <div class="cart4">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0G6WH6vytyBbpV6wgIWINNiW3wbcYNkEqk4LabYZAjtljA1zxw7XEnGGu9DWxQ6FX1I&usqp=CAU" alt="">
+                    <p>Our New Office Unveiled
+                        Your it to gave life <br> whom as. Fav…</p>
+                </div>
+    
+
+            </div>
+           
+        </div>
+        <div class="sonmetn">
+            <h2>More news ➝</h2>
+
+        </div>
+       
+
+    </div>
+</body>
+</html>
+
+@import url("https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Ojuju:wght@200..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar{
+    background-color: rgb(237, 231, 231);
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+
+}
+.navbar img{
+    height: 100px;
+}
+
+.nav_img {
+    display: flex;
+    padding-left: 100px;
+
+}
+
+.nav_img ul{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 20px;
+
+}
+
+.navbar i{
+    font-size: 30px;
+    padding-right: 70px;
+    cursor: pointer;
+}
+
+.background{
+    background-image: url("https://png.pngtree.com/background/20230618/original/pngtree-night-time-3d-image-of-luxurious-modern-home-featuring-a-lush-picture-image_3753107.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.background p{
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 60px;
+    font-family: "Ojuju", sans-serif;
+    padding-top: 160px;
+}
+.text{
+    font-family: "Heebo";
+    margin-left: 600px;
+    font-size: 20px;
+    letter-spacing: 1px;
+   
+}
+.page2 h2 {
+    font-family: "Heebo";
+    padding-top: 70px; 
+    margin-bottom: 10px; 
+    font-size: 40px;
+}
+
+.page2{
+    padding-left: 100px;
+    padding-right: 100px;
+ 
+}
+.boxs img{
+    width: 400px;
+    height: 300px;
+
+}
+.boxs{
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(3,0fr);
+    gap: 20px;
+    cursor: pointer;
+
+}
+
+.box1 img{
+    width: 550px;
+    opacity: 1;
+    transition: 1s;
+ 
+}
+.box1 img:hover{
+    opacity: 0.5;   
+ 
+}
+.box2 img{
+    width: 550px;
+    opacity: 1;
+    transition: 1s;
+ 
+}
+.box2 img:hover{
+    opacity: 0.5;   
+ 
+}
+.box3 img{
+    width: 280px;
+    opacity: 1;
+    transition: 1s;
+    
+ 
+}
+.box3 img:hover{
+    opacity: 0.5;   
+ 
+}
+.box4 img{
+    width: 550px;
+    opacity: 1;
+    transition: 1s;
+ 
+}
+.box4 img:hover{
+    opacity: 0.5;   
+ 
+}
+.box5 img{
+    width: 550px;
+    opacity: 1;
+    transition: 1s;
+ 
+}
+.box5 img:hover{
+    opacity: 0.5;   
+ 
+}
+
+.box4 img{
+    width: 550px;
+}
+#see{
+    font-size: 35px;
+    font-family: "Heebo";
+    padding-top: 50px;
+}
+.page3{
+    background-color: rgb(34, 31, 31);
+    padding-right: 150px;
+    margin-top: 30px;
+    
+
+}
+.hisse1{
+    padding-bottom: 100px;
+}
+.hisse2{
+    padding-bottom: 100px;
+}
+.hisse3{
+    padding-bottom: 100px;
+}
+
+.text1{
+    padding-left: 1000px ;
+    font-size: 18px;
+    font-family: "Heebo";
+    letter-spacing: 1px;
+    color: white;
+ 
+}
+.text2{
+    padding-left: 1000px ;
+    font-size: 18px;
+    font-family: "Heebo";
+    letter-spacing: 1px;
+    color: white;
+}
+.text3{
+    padding-left: 1000px ;
+    font-size: 18px;
+    font-family: "Heebo";
+    letter-spacing: 1px;
+    color: white;
+}
+
+.page3 h2{
+    padding-top: 50px;
+    font-size: 27px;
+    font-family: "Heebo";
+    letter-spacing: 1px;
+    padding-left: 70px;
+    color: white;
+
+}
+.Clients  {
+    padding: 80px;
+}
+.Clients p{
+    padding-left: 900px;
+    font-size: 17px;
+    font-family: "Heebo";
+    letter-spacing: 1px;
+}
+.Clients h2{
+    font-size: 30px;
+    font-family: "Heebo";
+    letter-spacing: 2px;
+}
+
+.logolar{
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  
+}
+.logolar img{
+    width: 250px;
+    height: 250px;
+    opacity: 1;
+    transition: 1s;
+}
+.logolar img:hover{
+    opacity: 0.05;
+
+
+}
+.page4{
+    background-color: rgb(255, 255, 255);
+    
+}
+#pp{
+    padding-left: 900px;
+    font-size: 20px;
+    font-family: "Heebo";
+    letter-spacing: 2px;
+}
+#news{
+    font-size: 45px;
+    font-family: "Heebo";
+    letter-spacing: 2px;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.kartlar img{
+    width: 300px;
+    height: 200px;
+}
+.kartlar{
+    margin: 100px;
+}
+.kartlar1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.kartlar1 img{
+    transition: 1s;
+    opacity: 1;
+    cursor: pointer;
+}
+.kartlar1 img:hover{
+    opacity: 0.5;
+}
+.cart1{
+    display: flex;
+    align-items: center;
+}
+.cart2{
+    display: flex;
+    align-items: center;
+}
+.cart3{
+    display: flex;
+    align-items: center;
+}
+.cart4{
+    display: flex;
+    align-items: center;
+}
+.kartlar1 p{
+    font-size: 18px;
+    padding-left: 20px;
+    cursor: pointer;
+    transition: 1s;
+}
+.sonmetn h2{
+    font-family: "Ojuju", sans-serif;
+    font-size: 40px;
+    padding-left: 80px;
+    letter-spacing: 2px;
+}
+
+.kartlar1 p:hover{
+    color: rgb(194, 115, 18);
+
+}
